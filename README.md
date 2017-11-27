@@ -5,9 +5,9 @@ Link Stackoverflow:
 
 ## Tính toán thời gian đến miliseconds từ file log 
 
-File: cal.sh 
+File: ![cal.sh](https://github.com/vantuanpham95/Calculate-Time-Difference-a-Tuyen-/blob/master/cal.sh)
 
-Nguồn: tuyen.txt 
+Nguồn: ![tuyen.txt](https://github.com/vantuanpham95/Calculate-Time-Difference-a-Tuyen-/blob/master/tuyen.txt)
 
 **Sử dụng**
 ```
